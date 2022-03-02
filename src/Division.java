@@ -6,4 +6,9 @@ public class Division {
 		System.out.println("La division es: " + resultado);
 		//comentario
 	}
+	
+	public static void divDouble(double num1, double num2) {
+		double resultado = num1/num2;
+		System.out.println("La division es: " + resultado);
+	}
 }
