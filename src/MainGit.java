@@ -18,5 +18,7 @@ public class MainGit {
 		
 		//Metodos Clase Mult
 		Multiplicacion.mult(4, 5);
+
+		Multiplicacion.multDouble(5.2, 9.7);
 	}
 }
