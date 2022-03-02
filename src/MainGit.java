@@ -14,5 +14,9 @@ public class MainGit {
 		// Metodos Clase Resta
 		Resta.restar(9, 7);
 		Resta.restaAcum(5);
+		
+		//Metodos Clase Mult
+		Multiplicacion.mult(4, 5);
+		Multiplicacion.multDouble(5.2, 9.7);
 	}
 }
