@@ -12,6 +12,11 @@ public class Suma {
 		System.out.println("La suma acumulada es: " +suma);
 	}
 	
+	public static void sumaDouble(double num1, double num2) {	
+		double sumaDouble = num1 + num2;
+		System.out.println("El resultado de la suma double es: " +sumaDouble);
+	}
+	
 	/*
 	 * public static int suma(int... numeros){	
 	 * int valorAcumulado = 0;
