@@ -11,4 +11,13 @@ public class Suma {
 		suma+= valor;
 		System.out.println("La suma acumulada es: " +suma);
 	}
+	
+	/*
+	 * public static int suma(int... numeros){	
+	 * int valorAcumulado = 0;
+	 * for (numero : numeros) {
+	 *     valorAcumulado += numero;
+	 * }
+	 * return valorAcumulado;
+	}*/
 }
